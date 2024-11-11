@@ -1,4 +1,4 @@
-//configure et exporte l'application Express
+//configure et exporte l'application Express.
 
 import express from 'express';
 import cors from 'cors';

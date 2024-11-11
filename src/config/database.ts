@@ -1,4 +1,4 @@
-//connexion à la bdd avec knex
+//connexion à la bdd avec knex!
 import knex from 'knex';
 import dotenv from 'dotenv';
 
