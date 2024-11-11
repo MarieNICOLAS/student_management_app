@@ -1,4 +1,4 @@
-import { Router } from "express";
+import { Router } from 'express';
 import { getAllStudents } from '../controllers/StudentController';
 
 const router = Router();
